@@ -1,0 +1,415 @@
+%YAML 1.2
+---
+export-mappings:
+- type: hardlink
+  glob: ./baseicons/*
+  outputpath: ./
+- type: hardlink
+  glob: ./extra/*
+  outputpath: ./extra/
+- type: overlays
+  basepath: ./extra/
+  overlayspath: ./extraoverlays/
+  outputpath: ./extra
+  baselayers:
+    - name: fan
+      overlays:
+        - outname-type: append
+          outname: "_running"
+          overlay: fan_running
+- type: overlays
+  basepath: ./baseicons/
+  overlayspath: ./overlays/
+  outputpath: ./
+  baselayers:
+    - name: application
+      overlays:
+        - &ADD
+          outname-type: append
+          outname: "_add"
+          overlay: add
+        - &DELETE
+          outname-type: append
+          outname: "_delete"
+          overlay: delete
+        - &EDIT
+          outname-type: append
+          outname: "_edit"
+          overlay: edit
+        - &ERROR
+          outname-type: append
+          outname: "_error"
+          overlay: error
+        - &KEY
+          outname-type: append
+          outname: "_key"
+          overlay: key
+        - &LIGHTNING
+          outname-type: append
+          outname: "_lightning"
+          overlay: lightning
+        - &GET
+          outname-type: append
+          outname: "_get"
+          overlay: get_increase
+        - &GO
+          outname-type: append
+          outname: "_go"
+          overlay: go
+    - name: basket
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+    - name: bell
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - &LINK
+          outname-type: append
+          outname: "_link"
+          overlay: link
+    - name: book
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+    - name: brick
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *LINK
+    - name: bug
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *LINK
+    - name: building
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+    - name: calculator
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *LINK
+    - name: calendar
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *LINK
+    - name: camera
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *LINK
+    - name: cd
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *GO
+        - &BURN
+          outname-type: append
+          outname: "_burn"
+          overlay: burn
+        - outname-type: append
+          outname: "_eject"
+          overlay: eject
+    - name: chart_bar
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *LINK
+    - name: chart_curve
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *LINK
+    - name: chart_line
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *LINK
+
+
+    - name: cog
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+    - name: coins
+      overlays:
+        - *ADD
+        - *DELETE
+    - name: comment
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+    - name: comments
+      overlays:
+        - *ADD
+        - *DELETE
+    - name: computer
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+    - name: contrast
+      overlays:
+        - outname-type: append
+          outname: "_increase"
+          overlay: get_increase
+        - outname-type: append
+          outname: "_decrease"
+          overlay: put_decrease
+
+
+    - name: css
+      overlays:
+        - *ADD
+        - *DELETE
+        - *GO
+
+
+    - name: database
+      overlays:
+        - *ADD
+        - outname-type: append
+          outname: "_connect"
+          overlay: connect
+        - *DELETE
+        - *EDIT
+        - *ERROR
+
+        - *GO
+        - *KEY
+        - *LIGHTNING
+        - *LINK
+        - outname-type: append
+          outname: "_refresh"
+          overlay: refresh
+        - &SAVE
+          outname-type: append
+          outname: "_save"
+          overlay: save
+        
+
+    - name: date
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *LINK
+        - &MAGNIFY
+          outname-type: append
+          outname: "_magnify"
+          overlay: magnify
+
+
+
+    - name: drive
+      overlays:
+        - *ADD
+        - *BURN
+
+        - *DELETE
+        - &DISK
+          outname-type: append
+          outname: "_disk"
+          overlay: save
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+        - *MAGNIFY
+    - name: dvd
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+    - name: email
+      overlays:
+        - *ADD
+        - outname-type: append
+          outname: "_attach"
+          overlay: attach
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *LINK
+    - name: error
+      overlays:
+        - *ADD
+        - *DELETE
+        - *GO
+    - name: feed
+      overlays:
+        - *ADD
+        - *DELETE
+        - *DISK
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+        - *MAGNIFY
+    - name: page_white
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *KEY
+        - *GO
+        - *GET
+        - outname-type: append
+          outname: "_acrobat"
+          overlay: acrobat
+        - outname-type: append
+          outname: "_database"
+          overlay: database
+        - outname-type: append
+          outname: "_get"
+          overlay: get_increase
+        - outname-type: append
+          outname: "_compressed"
+          overlay: compressed
+        - *LINK
+        - *MAGNIFY
+        - outname-type: append
+          outname: "_put"
+          overlay: put_decrease
+        - outname-type: append
+          outname: "_star"
+          overlay: star
+        - outname-type: append
+          outname: "_swoosh"
+          overlay: swoosh
+        - outname-type: append
+          outname: "_zip"
+          overlay: zip
+    - name: application_form
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - outname-type: append
+          outname: "_magnify"
+          overlay: magnify
+    - name: plugin
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+    - name: printer
+      overlays:
+        - *ADD
+        - *DELETE
+        - *ERROR
+    - name: report
+      overlays:
+        - *ADD
+        - *DELETE
+        - *DISK
+        - *EDIT
+        - *GO
+        - *KEY
+        - *LINK
+        - *MAGNIFY
+        
+    - name: rss
+      overlays:
+        - *ADD
+        - *DELETE
+        - *GO
+    - name: script
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LIGHTNING
+        - *LINK
+        - *SAVE
+    
+    - name: shape_square
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *ERROR
+        - *GO
+        - *KEY
+        - *LINK
+        
+    - name: shield
+      overlays:
+        - *ADD
+        - *DELETE
+        - *GO
+        
+    - name: sound
+      overlays:
+        - *ADD
+        - *DELETE
+    - name: tab
+      overlays:
+        - *ADD
+        - *DELETE
+        - *EDIT
+        - *GO
+...

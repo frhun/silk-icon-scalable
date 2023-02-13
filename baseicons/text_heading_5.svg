@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="text_heading_5.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient869">
+      <stop
+         style="stop-color:#030303;stop-opacity:1"
+         offset="0"
+         id="stop865" />
+      <stop
+         style="stop-color:#565656;stop-opacity:1"
+         offset="1"
+         id="stop867" />
+    </linearGradient>
+    <rect
+       x="-60"
+       y="16"
+       width="66.317383"
+       height="50.838282"
+       id="rect859" />
+    <inkscape:path-effect
+       effect="mirror_symmetry"
+       start_point="29.561594,13.081673"
+       end_point="29.561594,50.212402"
+       center_point="29.561594,31.647037"
+       id="path-effect2064"
+       is_visible="true"
+       lpeversion="1"
+       mode="free"
+       discard_orig_path="false"
+       fuse_paths="false"
+       oposite_fuse="false"
+       split_items="false" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient869"
+       id="linearGradient871"
+       x1="-1.7070849"
+       y1="49.704086"
+       x2="-37.979187"
+       y2="8.0022478"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="3.686404"
+     inkscape:cy="29.354845"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true"
+     inkscape:snap-bbox="true"
+     inkscape:snap-bbox-edge-midpoints="false"
+     inkscape:bbox-nodes="true"
+     inkscape:bbox-paths="false"
+     inkscape:snap-intersection-paths="true"
+     inkscape:object-paths="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:snap-nodes="true"
+     inkscape:snap-smooth-nodes="true"
+     inkscape:snap-page="true"
+     inkscape:snap-center="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       id="text857"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;line-height:0;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';text-align:center;letter-spacing:-4.12px;word-spacing:0px;white-space:pre;shape-inside:url(#rect859);fill:url(#linearGradient871);fill-opacity:1;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:0.0739213;paint-order:markers stroke fill"
+       x="-20.976562"
+       y="0"
+       transform="translate(61.572266,-3.629688)"><tspan
+         x="-60"
+         y="51.629688"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:44px;line-height:1.1;font-family:'DejaVu Serif';-inkscape-font-specification:'DejaVu Serif';text-align:start;text-anchor:start;fill:url(#linearGradient871);fill-opacity:1;stroke:none">H5</tspan></tspan></text>
+    <image
+       width="64"
+       height="64"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADCSURBVCjPvdCxCcMwEAXQAxcuIoIFAUMg
+qtypcyXSqBIYNy4M0gSZQBNoAm2QCW6DTOBFbg1HTo6QyqW5QsU9vj4HK+wPHAJ88uhxDiuMwaFF
+k/qksUOF7cAJnmb8+rKmFXiN8sxgpomBwb6A7qUe7e2vw0Tj4qKNJvaLLkDRhRoS+QdGcpxQwml7
+pRaxpiowcGQZdHilVssoyu9VhsjAkmGgsCEZT1Rv/RHuH2BTqYa6xKlQmqPIda6ekGA47tT78wZ7
+2Oy4vOPLEgAAAABJRU5ErkJggg==
+"
+       id="image1047"
+       x="-64"
+       y="0" />
+  </g>
+</svg>

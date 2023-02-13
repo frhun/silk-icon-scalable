@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="textfield_rename.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1228">
+      <stop
+         style="stop-color:#faecce;stop-opacity:1"
+         offset="0"
+         id="stop1224" />
+      <stop
+         style="stop-color:#fed678;stop-opacity:1"
+         offset="1"
+         id="stop1226" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1228"
+       id="linearGradient1230"
+       x1="32"
+       y1="22"
+       x2="44"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="-0.019900753"
+     inkscape:cy="37.502842"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#fcfcfc;fill-opacity:1;stroke:#e8e8e8;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stroke-opacity:1"
+       id="rect870"
+       width="60"
+       height="28"
+       x="2"
+       y="18" />
+    <path
+       style="fill:none;fill-opacity:1;stroke:#c9c9c9;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 2,46 V 18 h 60"
+       id="path872" />
+    <image
+       width="64"
+       height="64"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAACjSURBVDjL7ZNBCsIwEEVz1mwTo1YjiHdI
+qyWgFBGPonWTC8T2BjlE4JsUwU0ILe7ExUtgPvNmNkMAkG8gPyAwxiAHYwxKKUgpk/kg8N5n4Zwn
+6865j4CVLXj1AA//rArsW4hAzCil4wTFsUdx6rBuLLaXJ+aH+zTBqukDFpuzxe5qsagnCIbV32vH
+ybF5Wd/GC3JkBfHJEZu11hBCJHPyvwXyAt6tONifnq6xAAAAAElFTkSuQmCC
+"
+       id="image866"
+       x="-64"
+       y="0" />
+    <rect
+       style="fill:#7299d8;fill-opacity:1;stroke:#6c8fc3;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       id="rect874"
+       width="20"
+       height="12"
+       x="10"
+       y="26" />
+    <path
+       style="fill:#c9c9c9;fill-opacity:1;stroke:#626262;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 34,18 h 8"
+       id="path876" />
+    <path
+       style="fill:#c9c9c9;fill-opacity:1;stroke:#626262;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="m 34,46 h 8"
+       id="path878" />
+    <path
+       style="fill:#c9c9c9;fill-opacity:1;stroke:#626262;stroke-width:4;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 38,20 V 44"
+       id="path880" />
+  </g>
+</svg>

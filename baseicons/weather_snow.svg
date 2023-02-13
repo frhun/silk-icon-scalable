@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="weather_snow.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1033">
+      <stop
+         style="stop-color:#e8e8e8;stop-opacity:1"
+         offset="0"
+         id="stop1029" />
+      <stop
+         style="stop-color:#f3f3f3;stop-opacity:1"
+         offset="1"
+         id="stop1031" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1017">
+      <stop
+         style="stop-color:#818181;stop-opacity:1"
+         offset="0"
+         id="stop1013" />
+      <stop
+         style="stop-color:#bbbbbb;stop-opacity:1"
+         offset="1"
+         id="stop1015" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1228">
+      <stop
+         style="stop-color:#faecce;stop-opacity:1"
+         offset="0"
+         id="stop1224" />
+      <stop
+         style="stop-color:#fed678;stop-opacity:1"
+         offset="1"
+         id="stop1226" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1228"
+       id="linearGradient1230"
+       x1="32"
+       y1="22"
+       x2="44"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1017"
+       id="linearGradient1019"
+       x1="52"
+       y1="36"
+       x2="24"
+       y2="16"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1033"
+       id="linearGradient1035"
+       x1="40"
+       y1="40"
+       x2="16"
+       y2="24"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="16.788309"
+     inkscape:cy="57.823829"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="64"
+       height="64"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAADnSURBVCjPY/jPgB8ykKTggMPemTsfbHmw
+fuZqBywKDjjsOXP//6f/H/9f/7/0zAIHJAXHpQ437L+6+93j/9//fwHDC/9nz0RScKjhBlDf5/9f
+gRhkwgcgnvZ34oIeC6iCvVffwyXf/3/3/y0Qvvt//H/7AqiCnVffAqU/wqXf/H/9/9X/l/+bP0AV
+bG449f/F/6f/z/0/AyQf/z/9/yyQf+B/HcyEdVIrG5ZcXXB19oJpiyc96H3Qub51R+OH2gVVFnBv
++uj6+ProYtIIBb6f/08v8OFHp9FMQMdoIYmpG10Bhv1ExSYAuRQri6NL7YwAAAAASUVORK5CYII=
+"
+       id="image885"
+       x="-64"
+       y="0" />
+    <circle
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#9c9c9c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path889-3"
+       cx="34"
+       cy="46"
+       r="4" />
+    <path
+       id="path852"
+       style="opacity:1;fill:url(#linearGradient1035);fill-opacity:1;stroke:url(#linearGradient1019);stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1;paint-order:markers stroke fill"
+       d="M 36,12 A 12,12 0 0 0 24.316406,21.263672 8,8 0 0 0 20,20 a 8,8 0 0 0 -8,8 8,8 0 0 0 8,8 h 16 14 a 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 6,6 0 0 0 -2.005859,0.345703 12,12 0 0 0 0.0059,-0.345703 12,12 0 0 0 -12,-12 z" />
+    <circle
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#9c9c9c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path889"
+       cx="18"
+       cy="46"
+       r="4" />
+    <circle
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#9c9c9c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path889-3-6"
+       cx="50"
+       cy="46"
+       r="4" />
+    <circle
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#9c9c9c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path889-3-7"
+       cx="42"
+       cy="54"
+       r="4" />
+    <circle
+       style="fill:#f3f3f3;fill-opacity:1;stroke:#9c9c9c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       id="path889-3-5"
+       cx="26"
+       cy="54"
+       r="4" />
+  </g>
+</svg>

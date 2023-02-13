@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="refresh.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient894">
+      <stop
+         style="stop-color:#276623;stop-opacity:1"
+         offset="0"
+         id="stop890" />
+      <stop
+         style="stop-color:#6abb5f;stop-opacity:1"
+         offset="1"
+         id="stop892" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient894"
+       id="linearGradient866"
+       x1="52"
+       y1="56"
+       x2="32"
+       y2="20"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="8.3521615"
+     inkscape:cy="22.035458"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:snap-intersection-paths="true"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="true"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <image
+       width="64"
+       height="64"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0 U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAALsSURBVBgZBcFtaJVlGMDx/3U/9znz7Ljj fMGXYiq1VkkrUiRoZQUhhoOKrAi/hEH0IUHFZQSREu1TQh8CP0TaEBQtIYikfRD3ciSWc0rlWpuz EmbT5TZ1O8fzPPd9Xf1+8uLHvW8XSnXbnbABWAAIAAKYgClBdXz2lp2ROzMd/YfaUwAAAHnps3L/ 0Z0bHnVOGg0SDAAAzACMqbmMY4OzTF6rVYZ/H1lSPtReAwDwLpGH8z5pvHyTxImAgClEU0Iwqlnk +YcaeKrFM6BT9aaPzDz3/o+Le7/cWgNwIrLQzJJ84sg58AKJg0RABBwCKKtKeYorvmdtc67gS8Uj AADOQAAc4AScCE4EJ4ITwSXCv9NV1izMmKtOEOq+JsklrwMAeAAz8AkIgomg0biRjjH03w9cn/uD MB4JaaCpYTVZmKd+5QkHzwLgzcAALw7DMGCyNsb5qe+4r34Jjy9tR02JFlGLBI1UKgNuyxcvXPlp 19lmb4ACIiAIBozdHmBZvsjywgqGJgYZmxwlSwNNi1cTQ2T4SqrdHWebAZwGMAMFDDAzrs5cYuj6 BU799i3zFcfuZ06ye9Mpbk1XCRVHqLyTtu3fWADwqoaZgYFhAOxYdxAzUIOokeODnWxb/xGL8is5 8MonvNw5yLlPz1cBfFSIBqagAAAYQVOEHF+V93G3OosavNV2gA+Ovsdc7ZcFT+wKFrLwj9dgqBn7 L6YIhgqYCagjvfkhTQ23qcsH9nzzNFkaeLBpLdu3vcHwyJ/09p/r9iFEYoRVpRzrlzvUIBqc7nuN +xtLtDa3Ei3yWMs6okXUIqNXx+npK1+IIR73oaYaVC2NyM8TERXDEJa2nOTvy3uozA+QhcDwyAgh DYQsouGBGELc+1fXtR6f3Ys3ivlk2b7WtGhmDgMFABZt/JyOrnep3Jmm3PkrImgh7+627uieGO3a 0gPgRezg5r19r4rIk4bVAwBgYIDxJjE5nGvbeSYD7qnqkHccAwD4HyXFhGV2sNBxAAAAAElFTkSu QmCC "
+       id="image855"
+       x="-64"
+       y="0" />
+    <path
+       id="path837"
+       style="fill:#b0d9a9;stroke:url(#linearGradient866);stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;fill-opacity:1"
+       d="M 46 16 L 46 22 L 36 22 C 29 22 24 27 24 34 L 32 34 C 32 32 34 30 36 30 L 46 30 L 46 36 L 56 26 L 46 16 z M 38 40 L 28 50 L 38 60 L 38 54 L 48 54 C 55 54 60 49 60 42 L 52 42 C 52 44 50 46 48 46 L 38 46 L 38 40 z " />
+  </g>
+</svg>

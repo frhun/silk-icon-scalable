@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg8"
+   sodipodi:docname="tag_pink.svg"
+   inkscape:version="1.0.2 (e86c870879, 2021-01-15)">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1228">
+      <stop
+         style="stop-color:#faecce;stop-opacity:1"
+         offset="0"
+         id="stop1224" />
+      <stop
+         style="stop-color:#fed678;stop-opacity:1"
+         offset="1"
+         id="stop1226" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1228"
+       id="linearGradient1230"
+       x1="32"
+       y1="22"
+       x2="44"
+       y2="32"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="21.570977"
+     inkscape:cy="40.357965"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="px"
+     inkscape:snap-object-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-grids="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path862"
+       style="fill:#fcfcfc;fill-opacity:1;stroke:#b7b7b7;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 2 2 L 2 25 L 35 58 L 58 35 L 25 2 L 2 2 z M 13.939453 10 A 4 4 0 0 1 14 10 A 4 4 0 0 1 18 14 A 4 4 0 0 1 14 18 A 4 4 0 0 1 10 14 A 4 4 0 0 1 13.939453 10 z " />
+    <path
+       style="fill:#f1afec;fill-opacity:1;stroke:#ed99e7;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke"
+       d="M 20,28 36,44 44,36 28,20 Z"
+       id="path867" />
+    <image
+       width="64"
+       height="64"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeSpeed"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAAK/INwWK6QAAABl0RVh0
+U29mdHdhcmUAQWRvYmUgSW1hZ2VSZWFkeXHJZTwAAAHVSURBVDjLhZNbi9pQFIXzJ+a1xX8hhP7Q
+0k47zFPHK4p3FBQVbyhe8YIVsTpJGid1SIiXRFbPPmI6jpc+7Jdz9vrW2ic7Qq/XQ7fbRbvdRqvV
+QrPZRKPRQL1eR61WuwMg3Cqh0+lgv9+f1Xw+55ByuXwTIpAzCWazGXeeTqcOhM5YChQKhasQgSJT
+M7nRQbVareu6Dsuy+DkBS6USstnsRYhArsdGJt6yyLP1eo2tuoFRWfG7yWSCfD6PTCZzBhHI+RjZ
+tm2Q2HrZQvsm4eWzBKN8gIzHY0qBZDJ5AhHYjKaqqrxpt9txZ+1ewurHb6x8KrTvsgMZjUaUAtFo
+1IEIlUrlE5vRVBSFN5kjnTuvPCpeg0u8voMMh0NKgVAoxCGcUiwWRTajKcvyAfLTwPLrO8i9DL14
+gPT7fUqBQCBw58ySy+VENqMpSdI5xL/En0cF8sMv7K1Ding8Dp/P9/HkRdl8YjqdNheLxT/Il2do
+DzLUp2dsjM1bscsZ4W2lUikxkUiYtIkcMjagPSmwN7Yj9nq9LucRLy1HLBYTI5GISZt4/MQkZucn
+4qsAqnA47GYvbdKCDQaDi+KbAKpgMOj2+/0miT0ej+viKv/vd2Wubib+cO3+L9t+PiarnEW1AAAA
+AElFTkSuQmCC
+"
+       id="image979"
+       x="-64"
+       y="0" />
+  </g>
+</svg>
